@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Char2544-CT
 - 👀 I’m interested in both front-end and back-end dev
-- 🌱 I’m currently learning at Coding Temple bootcamp
+- 🌱 I’m currently working as a Full Stack Web Dev
 - 💞️ I’m looking to collaborate on anything fun
 - 📫 How to reach me char2544@gmail.com
 - 😄 Pronouns: He/Him
